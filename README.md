@@ -19,13 +19,13 @@ A Java-based desktop application that simulates a queue management system. It is
 ## Screenshots
 
 ### 1. Main Interface and Standard Simulation Run
-![Main Interface](docs/poza1.png)
+![Main Interface](docs/image1.png)
 
 ### 2. Simulation Completion and Statistics Display
-![Completion Statistics](docs/poza2.png)
+![Completion Statistics](docs/image2.png)
 
 ### 3. Detailed Parameter Configuration
-![Detailed Configuration](docs/poza3.png)
+![Detailed Configuration](docs/image3.png)
 
 ### 4. Massive Scale Simulation and Real-time Queue Animations
-![Massive Simulation](docs/poza4.png)
+![Massive Simulation](docs/image4.png)
