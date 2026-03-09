@@ -19,13 +19,13 @@ A Java-based desktop application that simulates a queue management system. It is
 ## Screenshots
 
 ### 1. Main Interface and Standard Simulation Run
-<img src="docs/image1.png" width="400">
+<img src="docs/image1.png" width="200">
 
 ### 2. Simulation Completion and Statistics Display
-<img src="docs/image2.png" width="400">
+<img src="docs/image2.png" width="200">
 
 ### 3. Detailed Parameter Configuration
-<img src="docs/image3.png" width="400">
+<img src="docs/image3.png" width="200">
 
 ### 4. Massive Scale Simulation and Real-time Queue Animations
-<img src="docs/image4.png" width="400">
+<img src="docs/image4.png" width="200">
